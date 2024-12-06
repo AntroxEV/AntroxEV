@@ -11,10 +11,10 @@ I am actively exploring applications of Virtual Reality and Virtual Construction
    + reliability analysis and statistics in geotechnical earthquake engineering
 
  🔭 I’m currently working on:
-   + USRA - Uncertainty Site Response Analysis - MATLAB/PYTHON software for simulating site response analysis under uncertain conditions of soil and ground motion.
-   + POSSREL - Data-Driven Possibility Reliability Assessment (MATLAB/PYTHON)
-   + WIM - Wind Information Modelling (Unreal Engine and REVIT)
-   + SPILE: An Open-Source Code for the Seismic Offshore Soil-Structure Interaction for Next-Generation Wind Energy Infrastructures (Python)
+   + **USRA** - Uncertainty Site Response Analysis - MATLAB/PYTHON software for simulating site response analysis under uncertain conditions of soil and ground motion.
+   + **POSSREL** - Data-Driven Possibility Reliability Assessment (MATLAB/PYTHON)
+   + **WIM** - Wind Information Modelling (Unreal Engine and REVIT)
+   + **SPILE**: An Open-Source Code for the Seismic Offshore Soil-Structure Interaction for Next-Generation Wind Energy Infrastructures (Python)
 
 <!--
 **AntroxEV/AntroxEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

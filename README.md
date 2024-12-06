@@ -4,11 +4,11 @@ I am a Senior Lecturer in **Digital Design in Civil Engineering (Education & Res
 I am actively exploring applications of Virtual Reality and Virtual Construction Design in civil engineering, focusing on developing software and tools tailored to industry needs. ⚡  _I also offer consultancy services in code implementation, computational modelling (FEM), and seismic soil-structure interaction (SSI) analysis_
 
  👯 I’m looking to collaborate on:
-     + dynamic simulation and design of wind turbines
-     + seismic soil-structure interaction
-     + nonlinear modelling of cyclic soil degradation
-     + ground motion modelling in urban areas
-     + reliability analysis and statistics in geotechnical earthquake engineering
+   + dynamic simulation and design of wind turbines
+   + seismic soil-structure interaction
+   + nonlinear modelling of cyclic soil degradation
+   + ground motion modelling in urban areas
+   + reliability analysis and statistics in geotechnical earthquake engineering
 
  🔭 I’m currently working on:
    + USRA - Uncertainty Site Response Analysis - MATLAB/PYTHON software for simulating site response analysis under uncertain conditions of soil and ground motion.
